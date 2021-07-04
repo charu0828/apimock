@@ -1,0 +1,162 @@
+
+{
+"users": [
+{
+"name": "Barath Ram",
+"age": 20,
+"dob": "28-11-2000",
+"firstName": "Barath",
+"lastName": "Ram",
+"phone": "9568512345",
+"more" :
+{
+"address_line1": "a",
+"address_line2": "b",
+"address_line3": "c"
+}
+},
+{
+"name": "Charu Ram",
+"age": 20,
+"dob": "08-11-2000",
+"firstName": "Charu",
+"lastName": "Ram",
+"phone": "9168512345",
+"more" :
+{
+
+"address_line1": "b",
+"address_line2": "c",
+"address_line3": "d"
+}
+},
+{
+"name": "Arun Sanjay",
+"age": 20,
+"dob": "02-10-2001",
+"firstName": "Arun",
+"lastName": "Sanjay",
+"phone": "9268512345",
+"more" :
+{
+
+"address_line1": "e",
+"address_line2": "y",
+"address_line3": "h"
+}
+
+},
+{
+"name": "Tina Bridget",
+"age": 22,
+"dob": "19-07-1999",
+"firstName": "Tina",
+"lastName": "Bridget",
+"phone": "9368512345",
+"more" :
+{
+
+"address_line1": "d",
+"address_line2": "h",
+"address_line3": "i"
+}
+
+},
+{
+"name": "Selva Ragavan",
+"age": 16,
+"dob": "14-01-2005",
+"firstName": "Selva",
+"lastName": "Ragavan",
+"phone": "9468512345",
+"more" :
+{
+
+"address_line1": "s",
+"address_line2": "l",
+"address_line3": "v"
+}
+
+},
+{
+"name": "Amrutha Nair",
+"age": 26,
+"dob": "26-08-1995",
+"firstName": "Amrutha",
+"lastName": "Nair",
+"phone": "9668512345",
+"more" :
+{
+
+"address_line1": "e",
+"address_line2": "d",
+"address_line3": "b"
+}
+
+},
+{
+"name": "Krishna Narayanan",
+"age": 23,
+"dob": "28-12-1998",
+"firstName": "Krishna",
+"lastName": "Narayanan",
+"phone": "9768512345",
+"more" :
+{
+
+"address_line1": "a",
+"address_line2": "s",
+"address_line3": "d"
+}
+
+},
+{
+"name": "Chandni Ahuja",
+"age": 21,
+"dob": "16-10-2000",
+"firstName": "Chandni",
+"lastName": "Ahuja",
+"phone": "9868512345",
+"more" :
+{
+
+"address_line1": "f",
+"address_line2": "g",
+"address_line3": "h"
+}
+
+},
+{
+"name": "Vidya Murthy",
+"age": 36,
+"dob": "29-05-1985",
+"firstName": "Vidya",
+"lastName": "Murthy",
+"phone": "9968512345",
+"more" :
+{
+
+"address_line1": "j",
+"address_line2": "k",
+"address_line3": "l"
+}
+
+},
+{
+"name": "Kishore Kanan",
+"age": 11,
+"dob": "20-10-2010",
+"firstName": "Kishore",
+"lastName": "Kanan",
+"phone": "9068512345",
+"more" :
+{
+
+"address_line1": "q",
+"address_line2": "w",
+"address_line3": "e"
+}
+
+}
+]
+}
